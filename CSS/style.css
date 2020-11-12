@@ -1,0 +1,105 @@
+#InputBox1 {
+    background-color: yellow;
+}
+
+#InputBox1:hover {
+    background-color: blue;
+}
+.button:hover {
+    background-color: red;
+}
+.mainPara {
+  position: static;
+  width: 700px; 
+  margin: 0px;
+  border-style: solid;  
+  font-family: arial;
+  color: green; font-size:25px;
+}
+
+.subPara {
+  position: static;
+  width: 700px; 
+  margin: 0px;
+  border-style: solid;
+  font-family: Georgia;  
+  color: yellow; font-size:25px;
+}
+
+#img1{
+	position:static;
+    bottom: 200px;
+    left: 20px;
+    width: 250px;
+    height: 250px; 
+    margin: 50px;	
+    object-fit: none;
+	border: 5px solid red;
+}
+
+#img2{
+	position:static;
+    bottom: 200px;
+    left: 20px;
+    width: 600px;
+    height: 350px; 
+    margin: 10px;	
+    object-fit: none;
+	border: 5px solid red;
+}	
+	
+/* #JpnPic {
+ 
+   width: 250px ;
+   margin: 10px ; 
+   border-style: solid;
+   border-width: 5px 20px;
+} */
+
+/* .selfIntro{
+   color: green; font-size:25px;
+} */
+#List{
+    color: red; font-size:15px;
+}
+body{
+     background-color:lightblue;
+}
+h1{
+  font-size:20px;
+}
+
+#video1{
+	position: relative;
+    width: 900px ;
+    height: 500px;
+    margin: 0px ; 
+	border: solid gray;
+}
+
+#video2{
+	position: relative;
+    width: 900px ;
+    height: 500px;
+    margin: 0px ; 
+	border: solid gray;
+}
+
+form{
+	
+	width: 700px ;
+	padding: 15px;
+    background-color: white;
+	font-style: italic;
+    border-style: solid;
+	font-weight: 500px;
+}
+
+h2{
+  font-family:courier; font-size:40px; color:blue;
+}
+
+h3{
+  font-family:courier; font-size:30px; color:red;
+}
+
